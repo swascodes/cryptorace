@@ -69,3 +69,8 @@ This project is an experiment at the intersection of **blockchain randomness, ga
 - Twitter / Portfolio: *Optional links*  
 
 > *The blockchain remembers your wish. The world might just echo it back.*
+
+<img width="1358" height="545" alt="image" src="https://github.com/user-attachments/assets/05ca21ef-cb4c-4fa9-bbb0-2a43df435562" />
+
+contract add= 0xF1e282CA0Cdbc1cCdaACC22e6c3411E6B1f46Bc7
+https://evm-testnet.flowscan.io/address/0xF1e282CA0Cdbc1cCdaACC22e6c3411E6B1f46Bc7
