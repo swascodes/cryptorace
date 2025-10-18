@@ -1,6 +1,9 @@
 # 💫 Wishing Well — A Decentralized Luck & Hope Experiment
 
 > *"Drop a wish into the blockchain... and maybe it echoes back."*
+> contract add= 0xF1e282CA0Cdbc1cCdaACC22e6c3411E6B1f46Bc7
+Explorer link= https://evm-testnet.flowscan.io/address/0xF1e282CA0Cdbc1cCdaACC22e6c3411E6B1f46Bc7
+
 
 ## 📝 Project Overview
 
@@ -72,5 +75,3 @@ This project is an experiment at the intersection of **blockchain randomness, ga
 
 <img width="1358" height="545" alt="image" src="https://github.com/user-attachments/assets/05ca21ef-cb4c-4fa9-bbb0-2a43df435562" />
 
-contract add= 0xF1e282CA0Cdbc1cCdaACC22e6c3411E6B1f46Bc7
-https://evm-testnet.flowscan.io/address/0xF1e282CA0Cdbc1cCdaACC22e6c3411E6B1f46Bc7
